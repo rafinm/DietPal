@@ -12,4 +12,6 @@ Anggota kelompok dan peran dalam projek
 2.	Saskia Dwi Ulfah	19/439822/TK/48552
 	- Membuat code perhitungan BMI.
 
-3.		
+3.	Tengku Rafi Nugroho M	19/439823/TK/48553
+	- Merancang User Interface program
+	- Membuat code User Interface
